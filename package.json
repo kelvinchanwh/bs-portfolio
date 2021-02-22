@@ -1,9 +1,9 @@
 {
-  "name": "rohit-gupta",
+  "name": "buddysingsofficial",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Rohit Gupta <rohitguptab33@gmail.com>",
+  "description": "A young Malaysian Buddhist music group aimed to create relatable and youth appealing music to connect youths all around and spread Dhamma values",
+  "version": "0.2.0",
+  "author": "Kelvin Chan <kelvin.chanwh@hotmail.com>",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "disqus-react": "^1.0.7",
@@ -45,9 +45,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rohitguptab/rg-portfolio"
+    "url": "https://github.com/kelvinchanwh/buddysingswebsitev2"
   },
   "bugs": {
-    "url": "https://github.com/rohitguptab/rg-portfolio/issues"
+    "url": "https://github.com/kelvinchanwh/buddysingswebsitev2/issues"
   }
 }
